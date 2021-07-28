@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @DmitryVS-git
-- 👀 I’m interested in soccer, walks in the open air, workout and IT
-- 🌱 I’m currently learning a QA engineering and what:
+- 👋 Hi, I’m Dmitry
+- 👀 I’m interested in soccer, walks in the open air, workouting and IT
+- 🌱 I’m currently learning a QA engineering and:
   - Theory of application testing
   - SQL
   - Java (for doing autotests and more understanding: How the programs really work)
   - Selenium
-  - HTML & CSS
   - Linux Terminal
 - ✔ I want to be a good QA engineer in the dream team🐱‍👤
 
